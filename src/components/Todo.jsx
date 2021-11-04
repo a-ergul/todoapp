@@ -3,7 +3,7 @@ import {GrFormClose, GrFormEdit, GrFormCheckmark } from "react-icons/gr";
 import { useToDoLayerValue } from '../context/todoContext';
 
 const Todo = ({todo}) => {
-    const removeTodo = 
+    
     return (
         <div className="todo-row">
             <div>
